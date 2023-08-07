@@ -13,4 +13,4 @@ This is a SQL Portfolio Project conducting Data Exploration on this [Covid Datas
 
 ## Other Methods:
 
-- Upon completing this project, I posted a blog on my website describing my thought process and techniques used [here]()
+- Upon completing this project, I posted a [blog](https://miqbalhalid.wixsite.com/iqbalhalid/post/sql-portfolio-project-covid-19-data-exploration) on my website describing my thought process and techniques used
